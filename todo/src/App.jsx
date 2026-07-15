@@ -43,7 +43,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1 className="heading font">TODO</h1>
+      <h1 className="heading font">saniya</h1>
 
       <h6 className="font">Manage your day!</h6>
 
